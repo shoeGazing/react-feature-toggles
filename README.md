@@ -1,6 +1,6 @@
 # React Feature Toggles
 
-[![Build Status](https://travis-ci.com/paralleldrive/react-feature-toggles.svg?token=Ba8H1FN3UT5CqqFhs2AM&branch=master)](https://travis-ci.com/paralleldrive/react-feature-toggles)[![Known Vulnerabilities](https://snyk.io/test/github/paralleldrive/react-feature-toggles/badge.svg?targetFile=package.json)](https://snyk.io/test/github/paralleldrive/react-feature-toggles?targetFile=package.json)
+A temporary fork of https://github.com/paralleldrive/react-feature-toggles, with added HoC/hooks support.
 
 ## Version 2
 
